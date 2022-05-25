@@ -7,7 +7,7 @@ const data = {
       image: '/images/p1.jpg', // 679px × 829px
       price: 12,
       countInStock: 1,
-      brand: 'proveedores de servicios tercerizados sas',
+      brand: 'proveedores_de_servicios_tercerizados_sas',
       rating: 4.5,
       numReviews: 10,
       description:
@@ -20,7 +20,7 @@ const data = {
       image: '/images/p2.jpg',
       price: 250,
       countInStock: 20,
-      brand: 'proveedores de servicios tercerizados sas',
+      brand: 'proveedores_de_servicios_tercerizados_sas',
       rating: 4.0,
       numReviews: 10,
       description:
@@ -32,8 +32,8 @@ const data = {
       category: 'Pants',
       image: '/images/p3.jpg',
       price: 25,
-      countInStock: 15,
-      brand: 'proveedores de servicios tercerizados sas',
+      countInStock: 0,
+      brand: 'proveedores_de_servicios_tercerizados_sas',
       rating: 4.5,
       numReviews: 14,
       description:
@@ -46,7 +46,7 @@ const data = {
       image: '/images/p4.jpg',
       price: 65,
       countInStock: 5,
-      brand: 'proveedores de servicios tercerizados sas',
+      brand: 'proveedores_de_servicios_tercerizados_sas',
       rating: 4.5,
       numReviews: 10,
       description:
