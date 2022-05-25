@@ -15,7 +15,7 @@ const data = {
     },
     {
       name: 'Linda Love',
-      slug: 'nurse',
+      slug: 'available',
       category: 'Shirts',
       image: '/images/p2.jpg',
       price: 250,
@@ -28,7 +28,7 @@ const data = {
     },
     {
       name: 'Linda Love',
-      slug: 'nurse',
+      slug: 'accountant',
       category: 'Pants',
       image: '/images/p3.jpg',
       price: 25,
@@ -41,7 +41,7 @@ const data = {
     },
     {
       name: 'Linda Love',
-      slug: 'nurse',
+      slug: 'student',
       category: 'Pants',
       image: '/images/p4.jpg',
       price: 65,

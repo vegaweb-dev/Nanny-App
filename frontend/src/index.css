@@ -12,23 +12,29 @@ code {
     monospace;
 }
 
-header {
-  color: #ffffff;
-  font-weight: bold;
-  text-decoration: none;
+.site-container {
+  min-height: 100vh;
 }
 
 main {
-  padding: 1rem;
+  flex: 1;
+}
+
+.btn-primary {
+  background-color: #81d4fa;
+  color: #000000;
 }
 .products {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
+.rating span {
+  color: #b29ddb;
+}
 
 .product {
-  border: 1px #404040 solid;
+  border: 3px #b39ddb solid;
   margin: 1rem;
 }
 .product img {
